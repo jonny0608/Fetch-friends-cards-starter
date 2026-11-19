@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Joe",
+        "relationship": "friend",
+        "age": "17",
+        "details": "Joe likes to play video games and is a great friend.",
+        "hobbies": [
+            "gaming",
+            "volleyball",
+            "coding"
+        ]
+    },
+    {
+        "name": "Madison",
+        "relationship": "friend",
+        "age": "17",
+        "details": "Madison is a great friend and is a model.",
+        "hobbies": [
+            "modeling",
+            "dancing",
+            "f1fanatic"
+        ]
+    },
+    {
+        "name": "Jake",
+        "relationship": "friend",
+        "age": "17",
+        "details": "Jake is a very good football player he is a very big kid.",
+        "hobbies": [
+            "football",
+            "eating",
+            "training"
+        ]
+    },
+    {
+        "name": "Eddie",
+        "relationship": "teammate",
+        "age": "17",
+        "details": "eddie is a really good wrestler he takes it very seriously.",
+        "hobbies": [
+            "wrestling",
+            "studying",
+            "running"
+        ]
+    },
+    {
+        "name": "SRashid",
+        "relationship": "friend",
+        "age": "17",
+        "details": "SRashid likes to do theatre and is a great friend.",
+        "hobbies": [
+            "theatre",
+            "directing",
+            "coding"
+        ]
+    },
+    {
+        "name": "sammy",
+        "relationship": "friend",
+        "age": "17",
+        "details": "sammy likes to run track and is a great friend.",
+        "hobbies": [
+            "Track runner",
+            "Hockey coach",
+            "coding"
+        ]
+    }
+]
